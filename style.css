@@ -33,7 +33,7 @@ html,body{
 	margin: 15px;
 	padding: 10px;
 	border: 3px solid #a59797;
-	box-shadow: 7px 3px 30px 3px rgba(204,220,253);
+	box-shadow: 7px 3px 3px 3px rgb(165, 137, 200);
 	outline: 10px 10px #D9A404 groove;
 	text-transform: capitalize;
 	text-shadow: 1px 1px rgba(187,190,254);
